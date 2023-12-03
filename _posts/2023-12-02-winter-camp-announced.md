@@ -6,7 +6,7 @@ date: 2023-12-02 13:05:13 -0400
 background: '/img/wankhede.avif'
 ---
 
-![India vs NZ]({{ '/img/2023ICC_Semifinals.jpg' | relative_url }})
+![WC Logo]({{ '/img/sa_winter2023.png' | relative_url }})
 
 ## Winter Camp Announced
 

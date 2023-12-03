@@ -1,10 +1,6 @@
 ---
 layout: page
-title: "Winter Camp Schedule"
-subheadline: "Table of all the matches with dates"
-teaser: "Table of all the matches with dates"
-# header:
-#    image_fullwidth: "header_unsplash_9.jpg"
+title: "2023 SA Winter Camp Schedule"
 permalink: "/2023wintercamp/schedule/"
 background: '/img/bg2.avif'
 
@@ -15,14 +11,16 @@ Some (but not all) sessions will be recorded.
 
 **The Sports Analytics camp runs from Dec 15, 2023 to Jan 31, 2024**
 
-### Interactive Sessions (Zoom, 3 x 1 hour each per week) 
+### Interactive Sessions 
+**(Zoom, 3 x 1 hour each per week) **
 
 The goal is to have 2-3 Zoom sessions (of 1 hour duration each)
 
-There will be three types of sessions each week:
-1. **Sports discussions** (Questions, Obtaining data, metrics, win probability)
-2. **Tech discussions** (Coding/Python/Setup/Data)
-3. **Math and Stat discussions** (Descriptive, bi-variate, Predictive analysis)
+The interactive sessions will be one of three tracks, each week:
+1. **Sports Track** (Questions, Obtaining data, metrics, win probability)
+2. **Tech Track** (Coding/Python/Setup/Data)
+3. **Math and Stat Track** (Descriptive, bi-variate, Correlations, Predictive analysis)
+    - We need to understand a little bit of theory to be able to carry out our own analysis. We will be looking at examples to understand the underlying mathematical and statistical ideas.
 
 For the Zoom link, please [contact Ram](mailto:ramnarasimhan@gmail.com?&subject=Winter2023 Zoom link request).
 

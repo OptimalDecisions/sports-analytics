@@ -1,11 +1,20 @@
 ---
 layout: page
-title: "ICC WC News"
-teaser: "History and changelog of Feeling Responsive Theme"
-header:
-   image_fullwidth: "header_unsplash_9.jpg"
-permalink: "/icc/news/"
+title: "Basics of Sports Analytics - Camp Logistics"
+permalink: "/2023wintercamp/logistics"
+background: '/img/bg2.avif'
+
 ---
 
-- Eoin Morgan [predicts the four semifinalists](https://crickettimes.com/2023/08/eoin-morgan-predicts-the-four-semifinals-of-the-2023-icc-odi-world-cup/){:target"_blank" class="link-primary"}
-- Oddschecker Cricket World Cup [Betting Odds](https://www.oddschecker.com/cricket/world-cup){:target"_blank" class="link-primary"}
+Start: 15 December 2023
+
+End: 30 Jan 2024
+
+1. You will be using your own laptops for analyzing.
+2. We will be using Colab, which runs on the Cloud
+3. We will need to find and download data relating to your sport of choice
+4. Optionally, there is a capstone project. 
+   This will be a small analytics project that we will select together and you will work on. The participants will write a small proposal, and once agreed upon, they will work on the project.
+5. The goal is to "showcase" this project. That can be in your GitHub account, a website or by writing a "white paper." 
+6. If a participant attends the interactive sessions, and complete a capstone sport data analysis project, they will be given a Certificate saying that they have completed the "Basics of Sports Analytics" course.
+
