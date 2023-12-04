@@ -1,11 +1,55 @@
 ---
 layout: page
-title: "ICC WC News"
-teaser: "History and changelog of Feeling Responsive Theme"
-header:
-   image_fullwidth: "header_unsplash_9.jpg"
-permalink: "/icc/news/"
+title: "Modules in the Basics of Sports Analytics"
+permalink: "/2023wintercamp/modules/"
 ---
 
-- Eoin Morgan [predicts the four semifinalists](https://crickettimes.com/2023/08/eoin-morgan-predicts-the-four-semifinals-of-the-2023-icc-odi-world-cup/){:target"_blank" class="link-primary"}
-- Oddschecker Cricket World Cup [Betting Odds](https://www.oddschecker.com/cricket/world-cup){:target"_blank" class="link-primary"}
+The "Basics of Sports Analytics" Course consists of 3 tracks, plus a Capstone project.
+
+### Sports Track
+   - Asking questions, and fine-tuning the questions
+   - Finding Data needed for analysis
+   - Comparative analysis - Between players, teams, venues
+   - Visualization - Sports-specific plots and graphs
+   - Predictive Models in Different sports
+
+
+### Statistics Track
+
+- Descriptive Statistics
+- Bi-variate or comparitive statistics
+- Regression to the mean
+- Basics of Probability
+- Hypothesis testing - t-tests, statistical significance
+- Win Probabilities
+
+### Tech Track
+   - Python variables, strings
+   - Python Lists & Dictionaries
+   - Python: Conditional statements, Boolean arithmetic
+   - Reading from and writing to files
+   - Visualization using Python (Matplotlib/Seaborn)
+   - Using Pandas for Data Analysis
+
+   **Advanced Tech Topics **
+   - Databases (optional, advanced)
+   - Using API's
+   - Webscraping (covered in the intermediate course)
+
+### Tools (to enable analysis)
+   - Colab and/or Jupyter Notebooks
+   - GitHub
+   - Excel
+
+### Capstone Project
+
+   - 1-page proposal
+   - Data procement
+   - Data clean-up and re-formatting data
+   - Exploratory analysis
+   - Plotting
+   - Model Building
+   - Presentation - Communicating the results
+
+
+

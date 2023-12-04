@@ -13,11 +13,30 @@ background: '/img/bg1.png'
 The Sports Analytics Academy aims to harness the innate interest in Sports and Games that people have, and to channel that interest to learn 
 core skills around 
 - Technology
-- Programming, 
-- Logical reasoning, 
+- Programming
+- Logical reasoning
 - Decision-making 
 - Story-telling 
-- Communications.
+- Communications
+
+### Target Audience
+
+The classes, courses and sessions of the Sports Analytics academy are aimed at students -- middle school, high school, college, graduate students and hobbyists who want to learn coding or analysis techniques.
+
+
+### Courses Offered
+
+    - Basics of Sports Analytics (4-6 weeks, with capstone project)
+    - Basic Machine Learning Applied to Sports Analytics (1-2 weeks)
+    - Visualization in Sports Analytics (1-2 weeks)
+    - Intermediate Sports Analytics (4-6 weeks, with capstone project)
+    - Advance Analytics (Project-based, self-paced with mentors assisting)
+
+### Certificates
+
+<img src="../img/2023WC_Certificate.png" width="250">
+
+Upon successful completion of any Course (made up of several modules), a certificate is issued to the participant.
 
 **Important Note**<br>
 **About Making Sports Analytics as one's Career**<br>
@@ -26,3 +45,4 @@ At the academy, we believe that while analyzing data (from any sport) can be a s
 Participants taking courses with the academy will learn a vast array of skills that will help them in other analytics-oriented careers.
 
 
+[Contact]((mailto:ramnarasimhan@gmail.com?&subject=Winter2023 Interest in SA Academy courses))
