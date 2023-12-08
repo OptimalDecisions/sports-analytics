@@ -7,6 +7,7 @@ background: '/img/bg2.avif'
 ---
 
 **Start: 15 December 2023**
+
 **End: 30 Jan 2024**
 
 The sports analytics camp is a learning opportunity that focuses on data science concepts, probability, predictive analytics, data exploration, and basic visualization, all within the context of sports. It is designed for individuals who are interested in improving their Python skills, high school students looking to showcase a project for college applications, and anyone with a passion for sports and numbers.

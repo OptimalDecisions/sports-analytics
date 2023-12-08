@@ -30,7 +30,7 @@ For the Zoom link, please [contact Ram](mailto:ramnarasimhan@gmail.com?&subject=
 |   Intro sessions	|  15 Dec 2023 	| 3 sessions this week. Colab and GitHub interactive   	|
 |   Weekly sessions	|  23 Dec 2023 	| 3 sessions this week   	|
 |  Project Proposals due     |  7 Jan 2024 	|   Write a one-page analytics proposal	|
-|   Weekly sessions	|  14 Jan 2024 	| 3 sessions this week   	|
-|   Weekly sessions	|  21 Jan 2024 	| 3 sessions this week   	|
+|   Weekly sessions	|  14 Jan 2024 	| Interactive sessions   	|
+|   Weekly sessions	|  21 Jan 2024 	| Interactive sessions    	|
 |  Capstone project Due	| 30 Jan 2024  	| Prepare a 10 minute presentation on your project   	|  	
-|  Project Showcase 	| 31 Jan 2024  	| Showcase your project |
+|  Project Showcase 	| 31 Jan 2024  	| Showcase your project. Add it to Project Gallery |

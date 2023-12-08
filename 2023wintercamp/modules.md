@@ -31,7 +31,7 @@ The "Basics of Sports Analytics" Course consists of 3 tracks, plus a Capstone pr
    - Visualization using Python (Matplotlib/Seaborn)
    - Using Pandas for Data Analysis
 
-   **Advanced Tech Topics **
+   **Advanced Tech Topics**
    - Databases (optional, advanced)
    - Using API's
    - Webscraping (covered in the intermediate course)

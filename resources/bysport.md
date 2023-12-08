@@ -27,6 +27,7 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 
 
 ## Basketball
+
 - [NBA Stats Explained - BleacherReport](https://bleacherreport.com/articles/1813902-advanced-nba-stats-for-dummies-how-to-understand-the-new-hoops-math) - Understandable explanations for several NBA Stats metrics. Don't miss if you like Basketball analytics
 - [NBA Stuffer](https://www.nbastuffer.com/analytics-101/) - Lots more metrics
 - [Viziball -  charts, statistics and basketball insights](https://viziball.app/nba/en) - NBA performance visualization
@@ -52,6 +53,7 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 - [How to Predict NFL Winners with Python](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/) Full analysis, presented with code.
 
 **Football Data**
+
 [Data from Pro-Football Referene](https://www.pro-football-reference.com/years/) - Season by Season, very well laid out. Can create CSV files of any table, using the "Share & Export"
 [100 years of NFL Player data 1922-2021. Kaggle](https://www.kaggle.com/datasets/loganlauton/nfl-player-data)
 [NFL Savant data sets](https://nflsavant.com/about.php) Excellent, play by play datasets for many years
@@ -65,6 +67,7 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 - [Evolving Hockey - A site dedicated to Hockey Analytics](https://evolving-hockey.com/)
 
 **Hocket Data**
+
 - The [IHDB Internet Hockey Databse](https://www.hockeydb.com/) has easy to download data.
 - [Hockey Reference](https://www.hockey-reference.com/)
 
@@ -74,6 +77,7 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 - [A big list of Soccer analytics Blog posts here](https://www.janvanhaaren.be/posts/soccer-analytics-review-2022/)
 
 **Soccer Data**
+
 - [https://www.football-data.org/](https://www.football-data.org/)
 - [MLS Stats](https://www.mlssoccer.com/stats/)
 = [Kaggle - International football results from 1872 to 2023](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
