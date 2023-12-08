@@ -31,7 +31,7 @@ If you complete a Sports Analytics keystone project by the end of January 2024, 
 
 
 ### Quick Summary 
-- In this camp, there are no tests, exams, or preparations needed. It is not competitive, and participants have different learning goals.
+- In this camp, there are no tests, exams, or preparations needed. It is not competitive, and participants have different learning goals. There will be assignments to be completed.
 - The camp will utilize Colab, which runs on the Cloud, for data analysis and statistical programming.
 - Participants will find and download data related to their sport of choice, and this process can be done together.
 - While the camp will try to stay away from sports betting, sometimes the data and insights from such analyses can be useful.
@@ -41,6 +41,6 @@ If you complete a Sports Analytics keystone project by the end of January 2024, 
 - Participants who attend the interactive sessions and complete a capstone sport data analysis project will receive a certificate for completing the **"Basics of Sports Analytics"** course.
 
 
-For more information and to sign up, you can contact Ram at ramnarasimhan@gmail.com.
+For more information and to sign up, you can contact [Ram](mailto:ramnarasimhan@gmail.com?&subject=Interest in WinterCamp2023)
 
 

@@ -94,6 +94,6 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 
 ## Other Sports
 
-- [Huge database of Chess games](https://www.chessgames.com/index.html)
-- [Kaggle - 120 years of Olympics Historical data](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
-- [Formula 1 World Championship (1950 - 2023)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+- Chess [Huge database of Chess games](https://www.chessgames.com/index.html)
+- Formula 1 [World Championship (1950 - 2023)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+- Olympics [Kaggle - 120 years of Olympics Historical data](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)

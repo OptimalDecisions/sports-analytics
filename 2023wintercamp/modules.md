@@ -2,6 +2,7 @@
 layout: page
 title: "Modules in the Basics of Sports Analytics"
 permalink: "/2023wintercamp/modules/"
+background: '/img/bg2.avif'
 ---
 
 The "Basics of Sports Analytics" Course consists of 3 tracks, plus a Capstone project.
