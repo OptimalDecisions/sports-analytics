@@ -32,6 +32,7 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 - [Viziball -  charts, statistics and basketball insights](https://viziball.app/nba/en) - NBA performance visualization
 
 **Basketball Data**
+
 - [NBA games data - Kaggle](https://www.kaggle.com/datasets/nathanlauga/nba-games)
 - [Play by Play Data - NBA 2015-2021 - Kaggle](https://www.kaggle.com/datasets/schmadam97/nba-playbyplay-data-20182019) Excellent!
 
@@ -41,6 +42,7 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 - [Cricket Analysis using K-Means & Hierarchical](https://www.kaggle.com/code/gauravduttakiit/cricket-analysis-using-k-means-hierarchical) - A good example of a complete analysis/project using cricket data. Several advanced topics, but lots to learn from this!
 
 **Cricket Data**
+
 -[Top 15 Kaggle datasets about Cricket in 2022](https://www.kaggle.com/discussions/general/327328) - Always check kaggle when you are looking for data! They often come with analysis by others which we can look at and learn.
 
 
@@ -50,8 +52,13 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 - [How to Predict NFL Winners with Python](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/) Full analysis, presented with code.
 
 **Football Data**
+[Data from Pro-Football Referene](https://www.pro-football-reference.com/years/) - Season by Season, very well laid out. Can create CSV files of any table, using the "Share & Export"
 [100 years of NFL Player data 1922-2021. Kaggle](https://www.kaggle.com/datasets/loganlauton/nfl-player-data)
 [NFL Savant data sets](https://nflsavant.com/about.php) Excellent, play by play datasets for many years
+[Glossary of Data Terms - ProFootball Reference](https://www.pro-football-reference.com/about/glossary.htm)
+
+
+
 ## Ice Hockey (American)
 
 - [An Intro to Hockey Analytics](https://www.nhl.com/kraken/news/beyond-box-score-intro-to-hockey-analytics-335471754)
