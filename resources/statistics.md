@@ -9,20 +9,18 @@ background: '/img/bg_run.jpg'
 
 
 
-### Statistics
+## Statistics
 
-**YouTube Videos on Colab Basics**
+### Basics of Stats
 
-1. [Jake's 3-minute intro to Colab](https://www.youtube.com/watch?v=inN8seMm7UI)
-2. [10 minute Intro to Colab](https://www.youtube.com/watch?v=RLYoEyIHL6A)
-3. [A Playlist with many Colab Features](https://youtube.com/playlist?list=PLA83b1JHN4ly56Y7o6vDAT8Szxc3_EdRH&si=3CrX9nxl8MoaQ0YK) - Optional, good for reference
-
-**Notebooks**
-
-- Colab comes with a notebook called Getting Started (on the left pane, see image)
-[Open and read through that Colab notebook,](https://colab.research.google.com/#scrollTo=GJBs_flRovLc) and run the commands
-
-- [Basic Features of Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
+[Exploratory Data Analysis - NIST](https://www.itl.nist.gov/div898/handbook/eda/eda.htm) Very good intro to several concepts.
+[Probability Distributions - NIST](https://www.itl.nist.gov/div898/handbook/eda/section3/eda36.htm) - Comprehensive, with good explanations
+[Classical Statistical Methos - NIST](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35.htm) There are tons of tests to be used in different circumstances. These are very good as reference. (No need to memorize, but good to be aware that these exist.)
+### Stats related Colab Notebooks
 
 
+- [Practice Basic Stats in Colab](https://colab.research.google.com/github/gmention-at-cea/sos2021/blob/main/SOS2021_practice_Basic_statistics.ipynb) Several good explanations, esp the illustrations
 
+- [Correlation - Colab](https://colab.research.google.com/github/AllenDowney/ElementsOfDataScience/blob/master/examples/correlation.ipynb)
+
+- [Elements of Data Science](https://colab.research.google.com/github/AllenDowney/ElementsOfDataScience) - Allen Downey's entire Book is excellent

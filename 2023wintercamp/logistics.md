@@ -25,8 +25,10 @@ Are high school students looking to showcase a project for college applications
 Have an interest in sports and numbers and want to explore this passion while learning new skills
 
 ### Certificate
-If you complete a Sports Analytics keystone project by the end of January 2024, you will be awarded a certificate. This certificate is a recognition of your dedication and achievement in the field of sports analytics.
 <img src="../img/2023WC_Certificate.png" width="250">
+
+If you complete a Sports Analytics keystone project by the end of January 2024, you will be awarded a certificate. This certificate is a recognition of your dedication and achievement in the field of sports analytics.
+
 
 ### Quick Summary 
 - In this camp, there are no tests, exams, or preparations needed. It is not competitive, and participants have different learning goals.
