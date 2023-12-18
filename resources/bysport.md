@@ -36,6 +36,7 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 
 - [NBA games data - Kaggle](https://www.kaggle.com/datasets/nathanlauga/nba-games)
 - [Play by Play Data - NBA 2015-2021 - Kaggle](https://www.kaggle.com/datasets/schmadam97/nba-playbyplay-data-20182019) Excellent!
+- [MBB College PBB Data](https://github.com/sportsdataverse/hoopR-mbb-data/tree/main/mbb) - Impressive that this gets updated on a daily basis!
 
 ## Cricket
 
@@ -86,11 +87,13 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 
 - [Analytics in Tennis Has Been an Evolution, Not a Revolution](https://www.nytimes.com/2022/08/27/sports/tennis/us-open-analytics-data.html)
 - [Why Tennis Is Still Not Ready to Play Moneyball](https://hdsr.mitpress.mit.edu/pub/uy0zl4i1/release/4)
+- [Sample analysis of Tennis data](https://www.kaggle.com/code/nescobar/data-visualizations-of-atp-tennis-competitions)
 
 **Tennis Data**
 
 - [Ultimate Tennis Statistics](https://www.ultimatetennisstatistics.com/)
 - [Tennis Live Stats](https://tennis.wettpoint.com/en/)
+- [ATP on GitHub, collated by Jeff Sackmann](https://github.com/JeffSackmann/tennis_atp) Site contains ATP player file, historical rankings, results, and match stats.
 
 ## Other Sports
 
