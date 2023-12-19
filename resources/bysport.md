@@ -17,14 +17,14 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 
 ## Baseball
 
--[Baseball 101 - The Basics of Baseball](https://www.kaggle.com/competitions/mlb-player-digital-engagement-forecasting/discussion/245457)
+- [Baseball 101 - The Basics of Baseball](https://www.kaggle.com/competitions/mlb-player-digital-engagement-forecasting/discussion/245457)
 - [Baseball Analytics and the Science of Winning Infographic](https://onlinegrad.syracuse.edu/blog/sabermetrics-baseball-analytics-the-science-of-winning/)
 
 **Baseball Data**
 
 - [Ready to use Baseball Databank - Kaggle](https://www.kaggle.com/datasets/open-source-sports/baseball-databank)
 - [Savant has downloadable datasets](https://baseballsavant.mlb.com/leaderboard/statcast)
-
+- [Retrosheet](https://www.retrosheet.org/) is ridiculously good! Their [site map](https://www.retrosheet.org/) makes things easy to navigate to the datasets we need.
 
 ## Basketball
 

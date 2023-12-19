@@ -6,7 +6,7 @@ background: '/img/bg2.avif'
 
 ---
 
-**Start: 15 December 2023**
+**Start: 21 December 2023**
 
 **End: 30 Jan 2024**
 
@@ -32,6 +32,8 @@ If you complete a Sports Analytics keystone project by the end of January 2024, 
 
 ### Quick Summary 
 - In this camp, there are no tests, exams, or preparations needed. It is not competitive, and participants have different learning goals. There will be assignments to be completed.
+- Winter 2023 is the first time the camp is being offered.
+- It is really an experiment! We will learn and adapt.
 - The camp will utilize Colab, which runs on the Cloud, for data analysis and statistical programming.
 - Participants will find and download data related to their sport of choice, and this process can be done together.
 - While the camp will try to stay away from sports betting, sometimes the data and insights from such analyses can be useful.
