@@ -3,7 +3,7 @@ layout: page
 title: Basic Stats Needed for Sports Analytics
 meta_title: "Basic Stats Needed for Sports Analytics"
 permalink: "/resources/statistics"
-background: '/img/bg_run.jpg'
+background: '/img/bg_stats.avif'
 
 ---
 

@@ -5,9 +5,11 @@ description: Tools that enable Sports Analytics
 background: '/img/bg_run.jpg'
 ---
 
+We use Python for most of our Sports data analysis. In order to get going with Python, we use Colab notebooks, provided by Google.
+(Alternatively, you can use Jupyter Notebooks, which runs on your local computer. Colab runs in the "cloud.")
 
 
-### Colab 
+### Colab Resources
 
 **YouTube Videos on Colab Basics**
 
@@ -24,11 +26,10 @@ background: '/img/bg_run.jpg'
 
 
 
-
-
 ## Git & Github
 
 1. Read the initial part of this document - [git - the simple guide](https://rogerdudler.github.io/git-guide/) 
 2. [Open a GitHub account](https://docs.github.com/en/get-started/quickstart/creating-an-account-on-github#:~:text=%22Hello%20World.%22-,Signing%20up%20for%20a%20new%20personal%20account,to%20create%20your%20personal%20account.) - You can store your projects/code and other artifacts here in this GH account and showcase it to the whole world
+3. [Install](https://desktop.github.com/) **GitHub Desktop** on your laptop -- be sure to pick the correct OS to match your laptop/desktop
 
 
