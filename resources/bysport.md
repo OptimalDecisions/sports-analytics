@@ -13,7 +13,7 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 
 ### All Sports
 [All Sports Data](https://sportsandsociety.osu.edu/sports-data-sets) - This is a very good list created and curated by OSU.
-
+[Dom Samangy's Guide to Sports Analytics](https://docs.google.com/spreadsheets/d/1LPe8xYduoep9qCrNzBGdJHaHZ8dnmdHNnu7UXZKzawU/edit#gid=268288455) - Comprehensive Google Sheets Doc!
 
 ## Baseball
 
@@ -24,7 +24,7 @@ These are just a few sample resources to get you thinking. Each topic is too vas
 
 - [Ready to use Baseball Databank - Kaggle](https://www.kaggle.com/datasets/open-source-sports/baseball-databank)
 - [Savant has downloadable datasets](https://baseballsavant.mlb.com/leaderboard/statcast)
-- [Retrosheet](https://www.retrosheet.org/) is ridiculously good! Their [site map](https://www.retrosheet.org/) makes things easy to navigate to the datasets we need.
+- [Retrosheet](https://www.retrosheet.org/) is ridiculously good! Their [site map](https://www.retrosheet.org/sitemap.htm) makes things easy to navigate to the datasets we need.
 
 ## Basketball
 
